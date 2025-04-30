@@ -37,4 +37,5 @@ Future Scope
 
 The Decentralized Freelance Marketplace aims to be at the forefront of the Web3 revolution in the gig economy, creating a more equitable and efficient system for all participants.
 
-# contract address = 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+# contract address = 0x13848Dbc448a1D265a2229319429B0b6f03B62ec
+
