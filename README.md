@@ -39,3 +39,5 @@ The Decentralized Freelance Marketplace aims to be at the forefront of the Web3 
 
 # contract address = 0x13848Dbc448a1D265a2229319429B0b6f03B62ec
 
+![image](https://github.com/user-attachments/assets/5f13c101-cec7-4f21-aa87-bad72ddbf1d1)
+
